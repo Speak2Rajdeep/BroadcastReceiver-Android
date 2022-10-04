@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Receiver</string>
+    <string name="please_check_aeroplane_mode">Please Check Aeroplane Mode</string>
+</resources>
